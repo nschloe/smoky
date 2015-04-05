@@ -2,4 +2,8 @@
     <string name="app_name">Smoky</string>
     <string name="title_activity_maps">Map</string>
     <string name="rate">Rate a place</string>
+    <string name="title_activity_rate">RateActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
 </resources>
