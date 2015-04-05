@@ -2,6 +2,8 @@
     <string name="app_name">Smoky</string>
     <string name="title_activity_maps">Map</string>
     <string name="rate">Rate a place</string>
+    <string name="submit_question">How smoky is the place?</string>
+    <string name="submit">Submit</string>
     <string name="title_activity_rate">RateActivity</string>
 
     <string name="hello_world">Hello world!</string>
