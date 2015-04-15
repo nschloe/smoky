@@ -26,6 +26,9 @@ public class MapsActivity extends FragmentActivity {
         setContentView(R.layout.activity_maps);
         setUpMapIfNeeded();
 
+        // enable location layer (for "my location" and the like)
+        mMap.setMyLocationEnabled(true);
+
         // TODO remove
         new EndpointsAsyncTask().execute(new Pair<Context, String>(this, "Manfred"));
     }
