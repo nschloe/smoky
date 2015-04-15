@@ -19,6 +19,7 @@
         android:layout_height="wrap_content"
         android:text="@string/rate"
         android:onClick="startRater"
+        android:layout_alignParentBottom="true"
         />
 
 </RelativeLayout>
